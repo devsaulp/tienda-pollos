@@ -4,10 +4,10 @@ import { CartProvider } from '@/components/CartProvider'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import WhatsAppButton from '@/components/WhatsAppButton'
-import { WEB_1 } from '@/lib/config'
+import { NOMBRE_EMPRESA } from '@/lib/config'
 
 export const metadata: Metadata = {
-  title: `${WEB_1} | Alimentos balanceados para pollos`,
+  title: `${NOMBRE_EMPRESA} | Alimentos balanceados para pollos`,
   description:
     'Venta de alimentos balanceados para pollos de engorde y gallinas de postura. Pedidos online con pago por Yape, Plin o contra entrega.',
 }
