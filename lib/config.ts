@@ -2,7 +2,7 @@
 // DATOS DEL NEGOCIO — reemplazar los placeholders antes de publicar
 // ============================================================
 
-export const NOMBRE_EMPRESA = '[NOMBRE_EMPRESA]'
+export const NOMBRE_EMPRESA = 'COMERCIAL ENRRIQUE'
 export const NUMERO_WHATSAPP = '[NUMERO_WHATSAPP]' // con codigo de pais, ej: 51999999999
 export const NUMERO_YAPE = '[NUMERO_YAPE]'
 export const DIRECCION_LOCAL = '[DIRECCION_LOCAL]'
