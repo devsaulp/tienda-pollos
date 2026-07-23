@@ -3,7 +3,7 @@
 // ============================================================
 
 export const NOMBRE_EMPRESA = 'COMERCIAL ENRRIQUE'
-export const NUMERO_WHATSAPP = '[NUMERO_WHATSAPP]' // con codigo de pais, ej: 51999999999
+export const NUMERO_WHATSAPP = '51960063993' // con codigo de pais, ej: 51999999999
 export const NUMERO_YAPE = '[NUMERO_YAPE]'
 export const DIRECCION_LOCAL = '[DIRECCION_LOCAL]'
 
